@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24da5938-c6ca-4fb3-86de-61f7ba0130a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06、數據解析之JSON/06-数据解析之JSON/01-快代理作业.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06、數據解析之JSON/06-数据解析之JSON/02-json模块的使用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06、數據解析之JSON/06-数据解析之JSON/03-json模块的使用2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06、數據解析之JSON/06-数据解析之JSON/04-腾讯招聘爬取.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06、數據解析之JSON/06-数据解析之JSON/demo.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06、數據解析之JSON/06-数据解析之JSON/json模块的方法介绍.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06、數據解析之JSON/06-数据解析之JSON/作业.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06、數據解析之JSON/練習/02-json模塊的使用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06、數據解析之JSON/練習/03-json模塊的使用2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06、數據解析之JSON/練習/04-騰訊招聘爬取.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06、數據解析之JSON/練習/demo.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07、數據解析之BS4/02-BS4的基本使用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07、數據解析之BS4/07-数据解析之BS4/01-腾讯招聘作业.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07、數據解析之BS4/07-数据解析之BS4/02-BS4的基本使用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07、數據解析之BS4/07-数据解析之BS4/03-BS4的使用2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07、數據解析之BS4/07-数据解析之BS4/04-番组计划.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07、數據解析之BS4/07-数据解析之BS4/课后作业.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07、數據解析之BS4/課後作業.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08、數據分析之xpath/02-數據分析之xpath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08、數據分析之xpath/03-安居課.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08、數據分析之xpath/08-数据解析之xpath/01-番组排行作业.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08、數據分析之xpath/08-数据解析之xpath/02-数据解析之xpath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08、數據分析之xpath/08-数据解析之xpath/03-安居客.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08、數據分析之xpath/08-数据解析之xpath/作业.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08、數據分析之xpath/aa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08、數據分析之xpath/作業.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="24da5938-c6ca-4fb3-86de-61f7ba0130a2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,11 +42,11 @@
       <recent name="C:\python\LearnPythonAll\python第三階段_爬蟲\05、數據解析及正則" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\python\LearnPythonAll\python第三階段_爬蟲\11、實例實戰" />
       <recent name="C:\python\LearnPythonAll\python第三階段_爬蟲\10、數據存儲之MySQL" />
       <recent name="C:\python\LearnPythonAll\python第三階段_爬蟲\09、數據保存之Excel" />
       <recent name="C:\python\LearnPythonAll\python第三階段_爬蟲\08、數據分析之xpath" />
       <recent name="C:\python\LearnPythonAll\python第三階段_爬蟲\07、數據解析之BS4" />
-      <recent name="C:\python\LearnPythonAll\python第三階段_爬蟲\06、數據解析之JSON" />
     </key>
   </component>
   <component name="RunManager" selected="Python.main">
