@@ -1,0 +1,1 @@
+知网  https://kns.cnki.net/kns8s/defaultresult/index  搜索栏输入任意关键字 爬对应的数据 爬10页存数据库 不用爬详细内容

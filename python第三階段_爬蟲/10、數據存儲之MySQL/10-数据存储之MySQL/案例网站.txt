@@ -1,0 +1,14 @@
+
+http://datachart.500.com/
+
+
+CREATE TABLE `spidercode`.`double_ball`  (
+  `number` varchar(255) ,
+  `red_number` varchar(255) ,
+  `blue_number` varchar(255) ,
+  `money_pool` varchar(255) ,
+  `first_prize` varchar(255) ,
+  `two_prize` varchar(255) ,
+  `all_money` varchar(255) ,
+  `time` varchar(255)
+);

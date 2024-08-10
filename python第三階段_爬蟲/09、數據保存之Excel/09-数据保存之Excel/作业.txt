@@ -1,0 +1,2 @@
+作业
+	http://www.ccgp-hunan.gov.cn/page/notice/more.jsp?noticeTypeID=prcmNotices 这个页面的招标信息 只要爬这个页面就行 注意目标url的查找 爬10页 存到Excel 单表
