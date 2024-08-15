@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24da5938-c6ca-4fb3-86de-61f7ba0130a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/00、文件/課堂作業/02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00、文件/課堂作業/03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00、文件/課堂作業/05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00、文件/課堂作業/pdf/requests模块进阶(xmind).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00、文件/課堂作業/pdf/request请求进阶(md).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00、文件/課堂作業/pdf/数据解析(md版本).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00、文件/課堂作業/pdf/数据解析方法(xmind).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00、文件/課堂作業/pdf/爬虫原理+爬取步骤(md版本).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00、文件/課堂作業/pdf/爬虫原理+爬取步骤(思维导图).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00、文件/課堂作業/web" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03、request模塊及進階使用/03-requests模块进阶使用/練習/0302、新浪首頁.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05、數據解析及正則/練習/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11、實例實戰/nba.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13、selenium的基本使用/13-main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00、文件/python筆記.md" beforeDir="false" afterPath="$PROJECT_DIR$/00、文件/python筆記.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,30 +31,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/python/LearnPythonAll/python第三階段_爬蟲/00、文件/課堂作業/pdf",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/python/LearnPythonAll/python第三階段_爬蟲/00、文件/課堂作業/pdf&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\python\LearnPythonAll\python第三階段_爬蟲\00、文件\課堂作業\pdf" />
       <recent name="C:\python\LearnPythonAll\python第三階段_爬蟲\05、數據解析及正則" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\python\LearnPythonAll\python第三階段_爬蟲\13、selenium的基本使用" />
       <recent name="C:\python\LearnPythonAll\python第三階段_爬蟲\04、複習02及03" />
       <recent name="C:\python\LearnPythonAll\python第三階段_爬蟲\03、request模塊及進階使用" />
       <recent name="C:\python\LearnPythonAll\python第三階段_爬蟲\02、爬蟲原理及爬蟲數據" />
       <recent name="C:\python\LearnPythonAll\python第三階段_爬蟲\01、認識爬蟲" />
-      <recent name="C:\python\LearnPythonAll\python第三階段_爬蟲\11、實例實戰" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.nba">
-    <configuration name="02-數據分析之xpath" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.01-selenium的基本使用">
+    <configuration name="作業" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python第三階段爬蟲" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +66,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08、數據分析之xpath/02-數據分析之xpath.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08、數據分析之xpath/作業.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01-selenium的基本使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python第三階段爬蟲" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13、selenium的基本使用/13-selenium的基本使用" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13、selenium的基本使用/13-selenium的基本使用/01-selenium的基本使用.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,45 +130,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08、數據分析之xpath/03-安居課.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="作業" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python第三階段爬蟲" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08、數據分析之xpath" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08、數據分析之xpath/作業.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="作業" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python第三階段爬蟲" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08、數據分析之xpath" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08、數據分析之xpath/作業.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01-selenium的基本使用" />
         <item itemvalue="Python.nba" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.02" />
         <item itemvalue="Python.03-安居課" />
-        <item itemvalue="Python.02-數據分析之xpath" />
       </list>
     </recent_temporary>
   </component>

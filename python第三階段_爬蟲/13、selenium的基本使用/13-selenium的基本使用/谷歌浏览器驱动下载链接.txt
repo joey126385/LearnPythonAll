@@ -1,0 +1,5 @@
+https://googlechromelabs.github.io/chrome-for-testing/
+https://chromedriver.storage.googleapis.com/index.html
+https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json
+
+pip install selenium==3.141.0  -i https://pypi.tuna.tsinghua.edu.cn/simple
