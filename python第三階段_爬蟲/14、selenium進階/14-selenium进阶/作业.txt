@@ -1,0 +1,10 @@
+需求
+    https://movie.douban.com/top250?start=25&filter= 豆瓣电影top250完善
+    用自动化爬10页  获取10页的数据
+    难点
+        如果拉动滚动条到页面底部 点击翻页
+
+    提示
+        window.scroll
+        document.documentElement.scrollHeight
+        这两个JS代码可以实现
