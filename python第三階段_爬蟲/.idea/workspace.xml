@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24da5938-c6ca-4fb3-86de-61f7ba0130a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/00、文件/實例/05.鬥魚.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00、文件/實例/06.騰訊招聘.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00、文件/實例/07.番組計畫.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00、文件/實例/08.安居課.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00、文件/實例/08.链家.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05、數據解析及正則/main05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14、selenium進階/main_14.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00、文件/爬蟲.md" beforeDir="false" afterPath="$PROJECT_DIR$/00、文件/爬蟲.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/13、selenium的基本使用/13-main.py" beforeDir="false" afterPath="$PROJECT_DIR$/13、selenium的基本使用/13-main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/python/LearnPythonAll/python第三階段_爬蟲/00、文件/課堂作業/pdf",
-    "settings.editor.selected.configurable": "editing.templates"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -53,15 +49,36 @@
       <recent name="C:\python\LearnPythonAll\python第三階段_爬蟲\05、數據解析及正則" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\python\LearnPythonAll\python第三階段_爬蟲\17、scripy 原理" />
+      <recent name="C:\python\LearnPythonAll\python第三階段_爬蟲\16、selenium 驗證碼2" />
+      <recent name="C:\python\LearnPythonAll\python第三階段_爬蟲\15、selenium 驗證碼" />
       <recent name="C:\python\LearnPythonAll\python第三階段_爬蟲\12、實例案例" />
       <recent name="C:\python\LearnPythonAll\python第三階段_爬蟲\14、selenium進階" />
-      <recent name="C:\python\LearnPythonAll\python第三階段_爬蟲\13、selenium的基本使用" />
-      <recent name="C:\python\LearnPythonAll\python第三階段_爬蟲\04、複習02及03" />
-      <recent name="C:\python\LearnPythonAll\python第三階段_爬蟲\03、request模塊及進階使用" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.05.鬥魚">
-    <configuration name="01-selenium的基本使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main_14">
+    <configuration name="03-selenium配置项" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python第三階段爬蟲" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14、selenium進階/14-selenium进阶" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14、selenium進階/14-selenium进阶/03-selenium配置项.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03-webdriver的其他方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python第三階段爬蟲" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,7 +90,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13、selenium的基本使用/13-selenium的基本使用/01-selenium的基本使用.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13、selenium的基本使用/13-selenium的基本使用/03-webdriver的其他方法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05.鬥魚" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04-selenium元素等待" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python第三階段爬蟲" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/00、文件/實例" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14、selenium進階/14-selenium进阶" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\python\LearnPythonAll\python第三階段_爬蟲\00、文件\實例\05.鬥魚.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14、selenium進階/14-selenium进阶/04-selenium元素等待.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main_14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python第三階段爬蟲" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,32 +170,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05、數據解析及正則" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14、selenium進階" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05、數據解析及正則/main05.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="nba" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python第三階段爬蟲" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11、實例實戰" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11、實例實戰/nba.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14、selenium進階/main_14.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.05.鬥魚" />
-        <item itemvalue="Python.main05" />
+        <item itemvalue="Python.main_14" />
+        <item itemvalue="Python.04-selenium元素等待" />
+        <item itemvalue="Python.03-selenium配置项" />
         <item itemvalue="Python.13-main" />
-        <item itemvalue="Python.01-selenium的基本使用" />
-        <item itemvalue="Python.nba" />
+        <item itemvalue="Python.03-webdriver的其他方法" />
       </list>
     </recent_temporary>
   </component>
